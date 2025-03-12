@@ -3,7 +3,17 @@
 #### Full stack developer
 I’m a graduate from Walter Sisulu University with a Diploma in ICT in Application Development. Currently, I work as a Lead Associate at WNS Global Services, where I serve as a Subject Matter Expert (SME) for Centrica British Gas PAYGE.
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+<ins>##**💻Skills and Expertise.**</ins>
+
+-**Programming languages:** Java, JavaScript, etc.  
+-**Frameworks and libraries:** React, Angular, Vue.js,   
+-**Databases:** MySQL, MongoDB,   
+-**Version control:** Git  
+-**Development tools:** IDEs Visual Studio, text editors, IntelliJ.  
+
+**Problem Solving:** Strong analytical skills to troubleshoot and resolve complex issues.
+
+
 
 - 🔭 I’m currently working on Exploring new technologies and frameworks to improve application development. 
 
