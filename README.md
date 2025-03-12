@@ -1,6 +1,10 @@
 
 ### Hi there 👋, my name Kholosa Lovie Gcwabe
 #### Full stack developer
+<p align="center">
+  <img src="images/Kholosa Lovie Gcwabe.png" alt="Repository Banner">
+</p>
+
 I’m a graduate from Walter Sisulu University with a Diploma in ICT in Application Development. Currently, I work as a Lead Associate at WNS Global Services, where I serve as a Subject Matter Expert (SME) for Centrica British Gas PAYGE.
 
 <ins>##**💻Skills and Expertise.**</ins>
