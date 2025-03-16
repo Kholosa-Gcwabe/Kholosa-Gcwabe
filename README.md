@@ -1,5 +1,5 @@
-<h3 align="center">Hi there 👋, my name is Kholosa Lovie Gcwabe</h3>
-<h4 align="center">A passionate fullstack developer</h4>
+<h3 align="center">Hi there 👋,</h3>
+<h4 align="center">I am a passionate fullstack developer</h4>
 
 // Variables  
 let name = "Kholosa";   
