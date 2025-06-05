@@ -6,7 +6,6 @@
     public DeveloperProfile() {
         name = "Kholosa Lovie Gcwabe";
         education = "ICT Graduate in Application Development, Walter Sisulu University";
-
         programmingLanguages = new String[]{"Java", "HTML", "CSS", "JavaScript"};
         frameworks = new String[]{"Bootstrap", "Spring"};
         webDevSkills = new String[]{"Front-end & back-end development", "Responsive design", "UI/UX principles"};
