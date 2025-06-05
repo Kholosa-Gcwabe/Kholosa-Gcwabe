@@ -1,6 +1,7 @@
 <h3 align="center">Hi there 👋,</h3>
 <h4 align="center">I am a passionate fullstack developer</h4>
 
+
 // Constructor
     public DeveloperProfile() {
         name = "Kholosa Lovie Gcwabe";
