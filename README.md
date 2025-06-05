@@ -3,7 +3,8 @@
 
 
 / Constructor
-    public DeveloperProfile() {
+    public DeveloperProfile();
+    {
         name = "Kholosa Lovie Gcwabe";
         education = "ICT Graduate in Application Development, Walter Sisulu University";
         programmingLanguages = new String[]{"Java", "HTML", "CSS", "JavaScript"};
