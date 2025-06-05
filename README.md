@@ -2,7 +2,7 @@
 <h4 align="center">I am a passionate fullstack developer</h4>
 
 
-// Constructor
+/ Constructor
     public DeveloperProfile() {
         name = "Kholosa Lovie Gcwabe";
         education = "ICT Graduate in Application Development, Walter Sisulu University";
