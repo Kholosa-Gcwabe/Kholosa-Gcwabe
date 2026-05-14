@@ -20,46 +20,20 @@ and **QA Tester** roles.
 ## 🛠️ Tech Stack
 
 ### Frontend
-&lt;p align="left"&gt;
-  &lt;a href="https://reactjs.org/" target="_blank" rel="noreferrer"&gt;
-    &lt;img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/&gt;
-  &lt;/a&gt;
-  &lt;a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"&gt;
-    &lt;img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/&gt;
-  &lt;/a&gt;
-  &lt;a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"&gt;
-    &lt;img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/&gt;
-  &lt;/a&gt;
-  &lt;a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"&gt;
-    &lt;img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/&gt;
-  &lt;/a&gt;
-&lt;/p&gt;
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Backend & Database
-&lt;p align="left"&gt;
-  &lt;a href="https://www.java.com" target="_blank" rel="noreferrer"&gt;
-    &lt;img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/&gt;
-  &lt;/a&gt;
-  &lt;a href="https://spring.io/" target="_blank" rel="noreferrer"&gt;
-    &lt;img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/&gt;
-  &lt;/a&gt;
-  &lt;a href="https://www.mysql.com/" target="_blank" rel="noreferrer"&gt;
-    &lt;img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/&gt;
-  &lt;/a&gt;
-&lt;/p&gt;
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### QA & Tools
-&lt;p align="left"&gt;
-  &lt;a href="https://git-scm.com/" target="_blank" rel="noreferrer"&gt;
-    &lt;img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/&gt;
-  &lt;/a&gt;
-  &lt;a href="https://github.com/" target="_blank" rel="noreferrer"&gt;
-    &lt;img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/&gt;
-  &lt;/a&gt;
-  &lt;a href="https://www.servicenow.com/" target="_blank" rel="noreferrer"&gt;
-    &lt;img src="https://www.vectorlogo.zone/logos/servicenow/servicenow-icon.svg" alt="servicenow" width="40" height="40"/&gt;
-  &lt;/a&gt;
-&lt;/p&gt;
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-1F1F1F?style=for-the-badge&logo=servicenow&logoColor=white)
 
 ---
 
@@ -86,14 +60,6 @@ and **QA Tester** roles.
 
 ## 📫 Connect With Me
 
-&lt;p align="left"&gt;
-  &lt;a href="https://www.linkedin.com/in/kholosaloviegcwabe/" target="_blank"&gt;
-    &lt;img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" /&gt;
-  &lt;/a&gt;
-  &lt;a href="mailto:YOUR_EMAIL@gmail.com" target="_blank"&gt;
-    &lt;img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Email" height="30" width="40" /&gt;
-  &lt;/a&gt;
-  &lt;a href="https://github.com/Kholosa-Gcwabe" target="_blank"&gt;
-    &lt;img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="30" width="40" /&gt;
-  &lt;/a&gt;
-&lt;/p&gt;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kholosaloviegcwabe/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kholosa-Gcwabe)
